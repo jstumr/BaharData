@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: umar.akram
+Build-Jdk: 11.0.2
+Implementation-Title: startupDB
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: otto.DB
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/startupDB
+Created-By: Maven Integration for Eclipse
+
